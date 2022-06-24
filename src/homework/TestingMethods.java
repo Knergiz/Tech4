@@ -26,5 +26,17 @@ public class TestingMethods {
         System.out.println(Arrays.toString(Homework16.add(arr1, arr2)));
         System.out.println(Homework16.findClosestTo10(numbers));
 
+        if ("kerem" == "kerem"){
+            System.out.println(true);
+        } else System.out.println(false);
+
+        System.out.println(Homework21.findSumOfNumbers("s1w2a3a4  "));
+
+
+
+
+
+
+
     }
 }
